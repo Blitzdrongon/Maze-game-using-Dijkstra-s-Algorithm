@@ -1,0 +1,2 @@
+# Maze game using Dijkstra's Algorithm
+ **Maze Game Using Dijkstra's Algorithm**  A Maze Game implemented with Dijkstra's Algorithm challenges players to navigate a grid-based maze. The algorithm calculates the shortest path from the start to the goal, avoiding obstacles and minimizing travel cost. Players can visualize the optimal route and interactively solve the maze, combining problem-solving with algorithmic insights. Perfect for learning graph traversal in a fun and engaging way!
